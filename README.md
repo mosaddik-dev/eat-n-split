@@ -9,24 +9,21 @@
 
 ## 📂 Installation
 
-\```bash
-
 # Clone this repo
 
-git clone https://github.com/mosaddik-dev/project-name.git
+`git clone https://github.com/mosaddik-dev/project-name.git`
 
 # Navigate into folder
 
-cd project-name
+`cd project-name`
 
 # Install dependencies
 
-npm install
+`npm install`
 
 # Start project
 
-npm start
-\```
+`npm start`
 
 ---
 
