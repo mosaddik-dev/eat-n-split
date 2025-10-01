@@ -29,10 +29,10 @@
 
 ## 📬 Connect with Me
 
-- 🌐 Portfolio: [your-portfolio-link](https://mosaddik.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/mosaddique)
-- 📘 Facebook: [facebook.com/yourprofile](https://facebook.com/mosaddik.dev)
-- 📂 GitHub: [github.com/your-username](https://github.com/mosaddik-dev)
+- 🌐 Portfolio: [rebrand.ly/mosaddik](https://mosaddik.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/mosaddique](https://linkedin.com/in/mosaddique)
+- 📘 Facebook: [facebook.com/mosaddik.dev](https://facebook.com/mosaddik.dev)
+- 📂 GitHub: [github.com/mosaddik-dev](https://github.com/mosaddik-dev)
 
 ---
 
